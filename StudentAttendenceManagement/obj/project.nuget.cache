@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "by9aLY9oFogC2RJR4afkTg8p8PpawLwzPsPfjox4qYqM3GZm38wLI5AdlOQhr6ut3kQhN92Dw73gk0/tpxqRTA==",
+  "success": true,
+  "projectFilePath": "I:\\Practice Project\\Microservices using ASP.NET Core\\SchoolManagementSystem\\StudentAttendenceManagement\\StudentAttendenceManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Biplob Hosen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Biplob Hosen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Biplob Hosen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Biplob Hosen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Biplob Hosen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Biplob Hosen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

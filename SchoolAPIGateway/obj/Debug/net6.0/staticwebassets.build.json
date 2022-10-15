@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OpV5R+N3YycQgkSO45MYWw7aP8MLtU3toJkItx9R4Bs=",
+  "Source": "SchoolAPIGateway",
+  "BasePath": "_content/SchoolAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
